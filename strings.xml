@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">onlineShop</string>
+
+    <string-array name="lvItemList">
+        <item>ソフトドリンク</item>
+        <item>日本酒</item>
+        <item>カクテル</item>
+        <item>サワー</item>
+        <item>その他</item>
+    </string-array>
+
+    <string-array name="lvCocktail">
+        <item>マンハッタン</item>
+        <item>ミシシッピミュール</item>
+        <item>ブルーハワイ</item>
+        <item>マイタイ</item>
+        <item>マティーニ</item>
+    </string-array>
+
+    <string-array name="lvEtc">
+        <item>ウィスキー</item>
+        <item>ワイン</item>
+        <item>ジン</item>
+        <item>テキーラ</item>
+        <item>ウォッカ</item>
+    </string-array>
+
+    <string-array name="lvSake">
+        <item>獺祭</item>
+        <item>八海山</item>
+        <item>紀土</item>
+        <item>酔鯨</item>
+        <item>上善如水</item>
+        <item>おまかせ</item>
+    </string-array>
+
+    <string-array name="lvSoftdrink">
+        <item>コーラ</item>
+        <item>サイダー</item>
+        <item>ジンジャーエール</item>
+        <item>カルピス</item>
+        <item>ウーロン茶</item>
+        <item>緑茶</item>
+    </string-array>
+
+    <string-array name="lvSour">
+        <item>コーラサワー</item>
+        <item>カルピスサワー</item>
+        <item>レモンサワー</item>
+        <item>はちみつサワー</item>
+        <item>緑茶サワー</item>
+    </string-array>
+
+    <string name="unSelected">気になる飲み物をメニューから選択してください。</string>
+    <string name="order">注文する</string>
+    <string name="back">戻る</string>
+    <string name="selectedDrink">選択したドリンク</string>
+    <string name="Drink">未選択</string>
+</resources>
