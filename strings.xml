@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">onlineShop</string>
-
+        <!-- 編集店 -->
+        <!-- 編集その２ -->
     <string-array name="lvItemList">
-        <item>ソフトドリンク</item>
+        <item>ソフトドリンク的な何かが来る</item>
         <item>日本酒</item>
         <item>カクテル</item>
         <item>サワー</item>
